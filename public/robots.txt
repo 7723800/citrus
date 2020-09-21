@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://thecitrus.kz
+Sitemap: https://thecitrus.kz/sitemap.xml

@@ -1,0 +1,9 @@
+2020-09-21 10:40:17: -- Analysis Started by On File Change, After Delay
+2020-09-21 10:40:17: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 123
+2020-09-21 10:40:17: Left to Right: Copy File: 1 
+2020-09-21 10:40:17: == Sync Started by On File Change, After Delay
+2020-09-21 10:40:17: Start only 1 threads, limited by tasks to run
+2020-09-21 10:40:17: Copy New 'C:/Vue/citrus/description' -> 'G:/Sync Projects/citrus/description' (73)
+- ERROR: Error copying file: getting file info before copy: SibGetFileInfo: The system cannot find the file specified.  (error 2)
+2020-09-21 10:40:17: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 0, Errors: 1
+2020-09-21 10:40:17: 

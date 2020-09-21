@@ -1,0 +1,6 @@
+$orangeColor: #ff5a00;
+@mixin for-mobile-up {
+  @media (max-width: 1200px) {
+    @content;
+    }
+}
